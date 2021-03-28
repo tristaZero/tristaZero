@@ -2,7 +2,7 @@
 
 初めまして、潘娟と申します。よろしくお願いしますね 👋
 
-- 京东数科高级DBA
+- 京东科技高级DBA
 - Apache member
 - Apache ShardingSphere PMC
 
