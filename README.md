@@ -17,7 +17,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/tristaZero/shardingsphere)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/tristaZero)](https://badges.pufler.dev)
 
-![Trista's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristaZero&show_icons=true&theme=vue)
+![Trista's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristaZero&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
 
 
