@@ -2,11 +2,11 @@
 
 初めまして、潘娟と申します。よろしくお願いしますね 👋
 
-- 京东科技高级DBA
-- Apache member
+- Senior DBA working at JD.com
+- Apache memeber
 - Apache ShardingSphere PMC
 
-💬 主要负责京东科技分布式数据库开发、数据库运维自动化平台开发等工作。曾负责京东数科数据库自动化平台设计与开发，现专注于Apache ShardingSphere分布式数据库中间件平台的开发。主要在分布式数据库、开源、分布式架构等相关领域进行探索。
+<br/> 👩 [Biography](https://tristazero.github.io)
 <br/> 📫  panjuan@apache.org
 
 ---
