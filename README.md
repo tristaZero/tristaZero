@@ -5,7 +5,6 @@
 - Senior DBA working at JD.com
 - Apache memeber
 - Apache ShardingSphere PMC
-
 <br/> 👩 [Biography](https://tristazero.github.io)
 <br/> 📫  panjuan@apache.org
 
