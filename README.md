@@ -2,7 +2,7 @@
 
 初めまして、潘娟と申します。よろしくお願いしますね 👋
 
-- Senior DBA working at JD.com
+- SphereEx co-founder
 - Apache memeber
 - Apache ShardingSphere PMC
 
