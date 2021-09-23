@@ -2,13 +2,16 @@
 
 初めまして、潘娟と申します。よろしくお願いしますね 👋
 
-- SphereEx co-founder
+- SphereEx co-founder&CTO
 - Apache memeber
 - Apache ShardingSphere PMC
 - Apache brpc(Incubating) mentor
+- Apache age(Incubating) mentor
 
 <br/> 👩 [Biography](https://tristazero.github.io)
-<br/> 📫  panjuan@apache.org
+<br/> 📫 panjuan@apache.org
+<br/> 📔 https://www.linkedin.com/in/panjuan/
+<br/> 🔔 https://twitter.com/tristaZero
 
 <!-- ---
 ![GitHub followers](https://img.shields.io/github/followers/tristaZero?color=brightgreen&style=plastic)
