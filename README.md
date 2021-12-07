@@ -3,6 +3,7 @@
 初めまして、潘娟と申します。よろしくお願いしますね 👋
 
 - SphereEx co-founder&CTO
+- AWS Data Hero
 - Apache memeber
 - Apache ShardingSphere PMC
 - Apache brpc(Incubating) mentor
