@@ -3,11 +3,13 @@
 初めまして、潘娟と申します。よろしくお願いしますね 👋
 
 - SphereEx co-founder&CTO
-- AWS Data Hero
-- Apache memeber
+- Apache member
+- Apache incubator mentor
 - Apache ShardingSphere PMC
 - Apache brpc(Incubating) mentor
 - Apache age(Incubating) mentor
+- AWS Data Hero
+- Tencent cloud TVP
 
 <br/> 👩 [Biography](https://tristazero.github.io)
 <br/> 📫 panjuan@apache.org
