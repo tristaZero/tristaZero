@@ -8,6 +8,7 @@
 - Apache ShardingSphere PMC
 - Apache brpc(Incubating) mentor
 - Apache age(Incubating) mentor
+- Apache hugeGraph(Incubating) mentor
 - AWS Data Hero
 - Tencent cloud TVP
 
