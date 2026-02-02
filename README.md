@@ -1,8 +1,6 @@
-### Hi everyone, This is Trista, nice to meet you.
-
-初めまして、潘娟と申します。よろしくお願いしますね 👋
-
-- SphereEx co-founder&CTO
+### Hi everyone, This is Trista, nice to meet you.  👋
+- Ex AI product director at Bytedance
+- Ex SphereEx co-founder&CTO
 - Apache member
 - Apache incubator mentor
 - Apache ShardingSphere PMC
