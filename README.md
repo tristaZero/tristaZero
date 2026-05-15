@@ -1,14 +1,10 @@
 ### Hi everyone, This is Trista, nice to meet you.  👋
 - Ex AI product director at Bytedance
 - Ex SphereEx co-founder&CTO
-- Apache member
-- Apache incubator mentor
+- Apache member & Incubator mentor
 - Apache ShardingSphere PMC
-- Apache brpc mentor
-- Apache age mentor
-- Apache hugeGraph(Incubating) mentor
 - AWS Data Hero
-- Tencent cloud TVP
+
 
 <br/> 👩 [Biography](https://tristazero.github.io)
 <br/> 📫 panjuan@apache.org
