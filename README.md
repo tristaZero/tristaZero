@@ -7,7 +7,6 @@
 
 
 <br/> 👩 [Biography](https://tristazero.github.io)
-<br/> 📫 panjuan@apache.org
 <br/> 📔 https://www.linkedin.com/in/panjuan/
 <br/> 🔔 https://twitter.com/tristaZero
 
